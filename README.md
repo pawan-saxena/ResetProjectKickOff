@@ -1,10 +1,9 @@
 # ResetProjectKickOff
 ProjectKickOff Extension
 
-# ProjectKickOff
-@Author : Naveen Pratap Singh (naveenpratap.singh@optimusinfo.com)
+@Author : Naveen Pratap Singh (naveenpratap.singh@optimusinfo.com).
 
-@contributor : Pawan Saxena (pawan.saxena@optimusinfo.com)
+@contributor : Meenakshi Kumari.
 
 @ProjectConfiguration : This application is deployed and tested in following environments :
  
