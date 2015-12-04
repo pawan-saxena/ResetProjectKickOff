@@ -11,18 +11,28 @@ ProjectKickOff Extension
  @Configuration 1 :
  
  JDK 1.8
+ 
  Apache Tomact 8
+ 
  Spring web-mvc 3.0
+ 
  jquery 1.11.2
+ 
  jquery validation.js
+ 
  
  @Configuration 2 :
  
  JDK 1.7
+ 
  Apache Tomcat 7
+ 
  Spring web-mvc 3.0
+ 
  jquery 1.11.2
+ 
  jquery validation.js
+ 
  
  Browsers tested : 
  
