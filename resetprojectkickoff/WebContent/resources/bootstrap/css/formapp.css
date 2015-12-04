@@ -1,0 +1,124 @@
+
+#searchbutton1
+{
+  -moz-border-radius: 15px;
+ border-radius: 15px;
+    border:solid 1px black;
+    padding:5px;
+   width:71%; 
+   float:left;
+   height:30px 
+}
+#header {
+	background-image: url("resources/bootstrap/images/bg-header.png");
+
+    height: auto;
+}
+#logoset
+{
+max-width:100px;
+float:left;
+margin-left:10px;
+margin-top:10px;
+}
+#createbtn
+{
+width: 150px;
+height: 30px;
+float:right;
+margin:15px;
+}
+#formsearch
+{
+float:right;
+margin:15px;
+}
+#showallbtn
+{
+width: 25%;
+margin-left:10px;
+height:30px;
+}
+
+#editbtn
+{
+max-width:100px;
+max-height:15px;
+}
+
+#viewallbtn
+{
+width: 150px; 
+height: 30px;
+margin:15px;
+float:right;
+}
+
+#viewallbtnindex
+{
+width:90px;
+height:30px;
+}
+
+#indexsearchbtn
+{
+width:25%;
+float:right;
+height:30px;
+}
+
+#searchbutton
+{
+  -moz-border-radius: 15px;
+ border-radius: 15px;
+    border:solid 1px black;
+    padding:5px;
+}
+
+
+
+#searchbutton
+{
+width:73%;
+float:left;
+height:30px;
+}
+
+#submitbtn
+{
+width:150px;
+margin-bottom:90px;
+}
+#leftcolumn
+{
+width:48%;
+float:left;
+}
+
+#rightcolumn
+{
+width:48%;
+float:right;
+}
+#footer {
+	padding-top:5px;
+    font-size:14px;
+    background-color:lightgrey;
+    color:black;
+    vertical-align:middle;
+    text-align:center;
+height: 30px;
+}
+#indexview
+{
+	margin-top:70px;
+	border:0.1px solid;
+	width:220px;
+	padding-bottom:10px;
+}
+
+table
+{
+table-layout: fixed;
+word-wrap: break-word;
+}
