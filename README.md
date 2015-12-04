@@ -6,8 +6,10 @@ ProjectKickOff Extension
 
 @contributor : Pawan Saxena (pawan.saxena@optimusinfo.com)
 
-@ProjectConfiguration : This application is deployed and tested in following environments ; 
+@ProjectConfiguration : This application is deployed and tested in following environments :
+ 
  @Configuration 1 :
+ 
  JDK 1.8
  Apache Tomact 8
  Spring web-mvc 3.0
@@ -15,6 +17,7 @@ ProjectKickOff Extension
  jquery validation.js
  
  @Configuration 2 :
+ 
  JDK 1.7
  Apache Tomcat 7
  Spring web-mvc 3.0
@@ -22,6 +25,7 @@ ProjectKickOff Extension
  jquery validation.js
  
  Browsers tested : 
+ 
  Chrome 46.0
  FireFox 42.0
  Internet Explorer 11.0
